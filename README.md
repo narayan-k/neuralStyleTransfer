@@ -1,4 +1,4 @@
-# Neural Style Transfer
+<center> # Neural Style Transfer </center>
 
 Original image
 
