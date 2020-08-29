@@ -8,8 +8,8 @@ Original image
 after some style transfers
 
 <p float="left">
-  <img src="images/style1.png" width="200" /> 
-  <img src="images/style2.png" width="200" />
-  <img src="images/style3.png" width="200" /> 
-  <img src="images/style4.png" width="200" />
+  <img src="images/style1.png" width="400" /> 
+  <img src="images/style2.png" width="400" />
+  <img src="images/style3.png" width="400" /> 
+  <img src="images/style4.png" width="400" />
 </p>
