@@ -1,8 +1,10 @@
-<center> # Neural Style Transfer </center>
+# Neural Style Transfer
 
 Original image
 
+<p float="center">
 <img src="images/original.jpg" width="200" />
+</p>
 
 after some style transfers
 
