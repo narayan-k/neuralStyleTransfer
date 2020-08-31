@@ -4,9 +4,11 @@ In tasks such as objection recognition and detection, neural networks have long 
 
 Here NST.py is a neural style transfer script that takes two images as input. It will merge the two images extracting the 'content' from the content image from higher level convolutional layers in a pretrained VGG-19 model. The 'style' information from the style image is obtained from the correlation between the feature maps of the lower layers. This is achieved by computing a Gram matrix. <br>
 
-To demonstrate I've included some examples. To start with we need a 'content' image to stylise, so I grabbed a photot of this handsome fella :heart_eyes: <br>
+To demonstrate I've included some examples. To start with we need a 'content' image to stylise, so I grabbed a photo of this handsome fella :heart_eyes: <br>
 
-<img src="images/original.jpg" width="200" />
+<p float="middle">
+    <img src="images/original.jpg" width="200" />
+</p>
 
 And after some style transfers using different famous drawings and paintings.
 
