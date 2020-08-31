@@ -22,5 +22,4 @@ And after some style transfers using different famous drawings and paintings.
 Some useful links:
 
 1. [The paper](https://arxiv.org/abs/1508.06576)
-
 2. [A tensorflow implementation](https://www.tensorflow.org/tutorials/generative/style_transfer)
