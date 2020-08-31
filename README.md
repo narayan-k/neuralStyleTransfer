@@ -6,9 +6,7 @@ Here NST.py is a neural style transfer script that takes two images as input. It
 
 To demonstrate I've included some examples. To start with we need a 'content' image to stylise, so I grabbed a photo of this handsome fella :heart_eyes: <br>
 
-<p float="middle">
-    <img src="images/original.jpg" width="200" />
-</p>
+<img src="images/original.jpg" width="200" />
 
 And after some style transfers using different famous drawings and paintings.
 
@@ -18,3 +16,11 @@ And after some style transfers using different famous drawings and paintings.
   <img src="images/style3.png" width="400" /> 
   <img src="images/style4.png" width="400" />
 </p>
+
+### References
+
+Some useful links:
+
+1. [The paper](https://arxiv.org/abs/1508.06576)
+
+2. [A tensorflow implementation](https://www.tensorflow.org/tutorials/generative/style_transfer)
